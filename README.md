@@ -1,12 +1,12 @@
 # NuMDS
 
-The command to compile CELS is:
-g++ main.cpp -O3 -o CELS
+The command to compile NuMDS is:
+g++ NuMDS.cpp -O3 -o NuMDS
 
-The command to run CELS is:
-./CELS  <instance name>  <seed>  <time limit>
+The command to run NuMDS is:
+./NuMDS  <instance name>  <seed>  <time limit>
 
-CELS terminates when reaching the cutoff time.
+NuMDS terminates when reaching the cutoff time.
 
 Output
 <filename> <seed> <best solution size>
