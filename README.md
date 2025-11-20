@@ -12,4 +12,4 @@ NuMDS terminates when reaching the cutoff time.
 
 Output:
 
-<filename> <seed> <best_solution_size>
+<filename>  <seed>  <best_solution_size>
